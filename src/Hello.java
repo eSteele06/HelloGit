@@ -8,5 +8,8 @@ public class Hello {
 		    
 		    System.out.println("My name is Alan Turing");
 		    System.out.println("I invented this guy's major!");
+		    
+		    System.out.println("My name is Kevin O'Keefe");
+		    System.out.println("My major is Computer Science!");
 		  }
 }
